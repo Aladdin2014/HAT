@@ -3,7 +3,7 @@ HAT
 
 Coursera class files
 
-My first Repo
+My first repository on GitHub
 
 Hello World.md
 
